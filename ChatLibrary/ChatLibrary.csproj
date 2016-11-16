@@ -97,6 +97,7 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="G5Chat.sql" />
     <Content Include="Model\user.Context.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
       <DependentUpon>user.edmx</DependentUpon>
